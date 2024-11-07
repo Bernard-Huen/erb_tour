@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/erb_tour/static/css/main.8a5df7d3.css",
+    "main.js": "/erb_tour/static/js/main.577c16e6.js",
+    "static/media/beautiful-tropical-beach-sea-with-chair-blue-sky.jpg": "/erb_tour/static/media/beautiful-tropical-beach-sea-with-chair-blue-sky.9a88edc204976eec844b.jpg",
+    "static/media/seagull1.jpg": "/erb_tour/static/media/seagull1.99ac10f56eb29f2cef1b.jpg",
+    "static/media/seagulls.jpg": "/erb_tour/static/media/seagulls.8ca92a0a8b7e6c7ed107.jpg",
+    "static/media/daepo.jpg": "/erb_tour/static/media/daepo.e79dffd5d7fd1276f42c.jpg",
+    "static/media/maldives.jpg": "/erb_tour/static/media/maldives.438fcc61f3de593fbcde.jpg",
+    "static/media/logo.svg": "/erb_tour/static/media/logo.58797557029e5731340df3d3f84a58a5.svg",
+    "index.html": "/erb_tour/index.html",
+    "main.8a5df7d3.css.map": "/erb_tour/static/css/main.8a5df7d3.css.map",
+    "main.577c16e6.js.map": "/erb_tour/static/js/main.577c16e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a5df7d3.css",
+    "static/js/main.577c16e6.js"
+  ]
+}
